@@ -227,12 +227,12 @@ def main():
     report = format_report(results, glossary_count=len(glossary or set()))
     with open(args.output, "w", encoding="utf-8") as f:
         f.write(report)
-    print(f"\nReport → {args.output}")
+    print(f"\nReport -> {args.output}")
 
     raw = args.output.replace(".md", "_raw.json")
     with open(raw, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2)
-    print(f"Raw JSON → {raw}")
+    print(f"Raw JSON -> {raw}")
 
 
 if __name__ == "__main__":
