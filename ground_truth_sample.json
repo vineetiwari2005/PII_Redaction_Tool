@@ -1,0 +1,251 @@
+[
+    {
+        "paragraph_index": 28,
+        "text": "Contact Person: Sarthak Malvadkar, Company Secretary and Compliance Officer; Telephone: + 91 20 4505 3237;",
+        "entities": [
+            {"start": 16, "end": 34, "text": "Sarthak Malvadkar", "type": "PERSON"},
+            {"start": 89, "end": 107, "text": "+ 91 20 4505 3237", "type": "PHONE_NUMBER"}
+        ]
+    },
+    {
+        "paragraph_index": 29,
+        "text": "E-mail: cs.connect@kshinternational.com; Website: www.kshinternational.com",
+        "entities": [
+            {"start": 8, "end": 39, "text": "cs.connect@kshinternational.com", "type": "EMAIL_ADDRESS"},
+            {"start": 50, "end": 74, "text": "www.kshinternational.com", "type": "URL"}
+        ]
+    },
+    {
+        "paragraph_index": 11,
+        "text": "KSH INTERNATIONAL LIMITED CORPORATE IDENTITY NUMBER: U28129PN1979PLC141032",
+        "entities": [
+            {"start": 0, "end": 25, "text": "KSH INTERNATIONAL LIMITED", "type": "ORGANIZATION"},
+            {"start": 53, "end": 74, "text": "U28129PN1979PLC141032", "type": "IN_CIN"}
+        ]
+    },
+    {
+        "paragraph_index": 26,
+        "text": "Registered Office: 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune \u2013 410 501, Maharashtra, India;",
+        "entities": [
+            {"start": 19, "end": 115, "text": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune \u2013 410 501, Maharashtra, India;", "type": "LOCATION"}
+        ]
+    },
+    {
+        "paragraph_index": 27,
+        "text": "Corporate Office: 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune \u2013 411 045, Maharashtra, India;",
+        "entities": [
+            {"start": 18, "end": 118, "text": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune \u2013 411 045, Maharashtra, India;", "type": "LOCATION"}
+        ]
+    },
+    {
+        "paragraph_index": 166,
+        "text": "Kushal Subbayya Hegde, Pushpa Kushal Hegde, Rajesh Kushal Hegde, Rohit Kushal Hegde, Rakhi Girija Shetty, Dhaulagiri Family Trust, Everest Family Trust, Makalu Family Trust, Broad Family Trust, Annapurna Family Trust, Kanchenjunga Family Trust and Waterloo Industrial Park VI Private Limited are the Promoters",
+        "entities": [
+            {"start": 0, "end": 21, "text": "Kushal Subbayya Hegde", "type": "PERSON"},
+            {"start": 23, "end": 43, "text": "Pushpa Kushal Hegde", "type": "PERSON"},
+            {"start": 45, "end": 64, "text": "Rajesh Kushal Hegde", "type": "PERSON"},
+            {"start": 66, "end": 84, "text": "Rohit Kushal Hegde", "type": "PERSON"},
+            {"start": 86, "end": 105, "text": "Rakhi Girija Shetty", "type": "PERSON"},
+            {"start": 107, "end": 131, "text": "Dhaulagiri Family Trust", "type": "ORGANIZATION"},
+            {"start": 133, "end": 154, "text": "Everest Family Trust", "type": "ORGANIZATION"},
+            {"start": 156, "end": 176, "text": "Makalu Family Trust", "type": "ORGANIZATION"},
+            {"start": 178, "end": 196, "text": "Broad Family Trust", "type": "ORGANIZATION"},
+            {"start": 198, "end": 221, "text": "Annapurna Family Trust", "type": "ORGANIZATION"},
+            {"start": 223, "end": 249, "text": "Kanchenjunga Family Trust", "type": "ORGANIZATION"},
+            {"start": 254, "end": 301, "text": "Waterloo Industrial Park VI Private Limited", "type": "ORGANIZATION"}
+        ]
+    },
+    {
+        "paragraph_index": 226,
+        "text": "Certain of our SMs including, Sandesh Bhagwat, CEO, Amod Joshi, CFO, Sarthak Malvadkar, CS and Compliance Officer, and Ganesh Prasad, Technical Director, are also our KMPs.",
+        "entities": [
+            {"start": 30, "end": 46, "text": "Sandesh Bhagwat", "type": "PERSON"},
+            {"start": 53, "end": 63, "text": "Amod Joshi", "type": "PERSON"},
+            {"start": 70, "end": 88, "text": "Sarthak Malvadkar", "type": "PERSON"},
+            {"start": 119, "end": 132, "text": "Ganesh Prasad", "type": "PERSON"}
+        ]
+    },
+    {
+        "paragraph_index": 745,
+        "text": "E-mail: Sarthak.malvadkar@kshinterantional.com",
+        "entities": [
+            {"start": 8, "end": 47, "text": "Sarthak.malvadkar@kshinterantional.com", "type": "EMAIL_ADDRESS"}
+        ]
+    },
+    {
+        "paragraph_index": 756,
+        "text": "Telephone: +91 22 40094400 Email: ksh.ipo@nuvama.com Website: www.nuvama.com",
+        "entities": [
+            {"start": 11, "end": 26, "text": "+91 22 40094400", "type": "PHONE_NUMBER"},
+            {"start": 34, "end": 52, "text": "ksh.ipo@nuvama.com", "type": "EMAIL_ADDRESS"},
+            {"start": 62, "end": 76, "text": "www.nuvama.com", "type": "URL"}
+        ]
+    },
+    {
+        "paragraph_index": 762,
+        "text": "Telephone: +91 22 6807 7100 Email: ksh@icicisecurities.com Website: www.icicisecurities.com Investor grievance E-mail: customercare@icicisecurities.com",
+        "entities": [
+            {"start": 11, "end": 27, "text": "+91 22 6807 7100", "type": "PHONE_NUMBER"},
+            {"start": 35, "end": 58, "text": "ksh@icicisecurities.com", "type": "EMAIL_ADDRESS"},
+            {"start": 68, "end": 92, "text": "www.icicisecurities.com", "type": "URL"},
+            {"start": 119, "end": 151, "text": "customercare@icicisecurities.com", "type": "EMAIL_ADDRESS"}
+        ]
+    },
+    {
+        "paragraph_index": 780,
+        "text": "Email: ksh.ipo@nuvama.com, prakash.boricha@nuvama.com, and sheetal.parab@nuvama.com",
+        "entities": [
+            {"start": 7, "end": 25, "text": "ksh.ipo@nuvama.com", "type": "EMAIL_ADDRESS"},
+            {"start": 27, "end": 53, "text": "prakash.boricha@nuvama.com", "type": "EMAIL_ADDRESS"},
+            {"start": 59, "end": 83, "text": "sheetal.parab@nuvama.com", "type": "EMAIL_ADDRESS"}
+        ]
+    },
+    {
+        "paragraph_index": 812,
+        "text": "Contact Person: Eric Bacha/ Sachin Gawade/ Pravin Teli/ Siddharth Jadhav/ Tushar Gavankar",
+        "entities": [
+            {"start": 16, "end": 26, "text": "Eric Bacha", "type": "PERSON"},
+            {"start": 28, "end": 41, "text": "Sachin Gawade", "type": "PERSON"},
+            {"start": 43, "end": 54, "text": "Pravin Teli", "type": "PERSON"},
+            {"start": 56, "end": 72, "text": "Siddharth Jadhav", "type": "PERSON"},
+            {"start": 74, "end": 89, "text": "Tushar Gavankar", "type": "PERSON"}
+        ]
+    },
+    {
+        "paragraph_index": 811,
+        "text": "Email: siddharth.jadhav@hdfcbank.com, sachin.gawade@hdfcbank.com eric.bacha@hdfcbank.com, tushar.gavankar@hdfcbank.com, and pravin.teli2@hdfcbank.com Website: www.hdfcbank.com",
+        "entities": [
+            {"start": 7, "end": 36, "text": "siddharth.jadhav@hdfcbank.com", "type": "EMAIL_ADDRESS"},
+            {"start": 38, "end": 64, "text": "sachin.gawade@hdfcbank.com", "type": "EMAIL_ADDRESS"},
+            {"start": 65, "end": 88, "text": "eric.bacha@hdfcbank.com", "type": "EMAIL_ADDRESS"},
+            {"start": 90, "end": 118, "text": "tushar.gavankar@hdfcbank.com", "type": "EMAIL_ADDRESS"},
+            {"start": 124, "end": 149, "text": "pravin.teli2@hdfcbank.com", "type": "EMAIL_ADDRESS"},
+            {"start": 160, "end": 174, "text": "www.hdfcbank.com", "type": "URL"}
+        ]
+    },
+    {
+        "paragraph_index": 819,
+        "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai \u2013 400020 Telephone: 022-68052182 Email: Ipocmg@icicibank.com Website: www.icicibank.com Contact Person: Varun Badai",
+        "entities": [
+            {"start": 0, "end": 79, "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai \u2013 400020", "type": "LOCATION"},
+            {"start": 91, "end": 103, "text": "022-68052182", "type": "PHONE_NUMBER"},
+            {"start": 111, "end": 131, "text": "Ipocmg@icicibank.com", "type": "EMAIL_ADDRESS"},
+            {"start": 141, "end": 157, "text": "www.icicibank.com", "type": "URL"},
+            {"start": 175, "end": 186, "text": "Varun Badai", "type": "PERSON"}
+        ]
+    },
+    {
+        "paragraph_index": 873,
+        "text": "E-mail: parag.pansare@kirtanepandit.com",
+        "entities": [
+            {"start": 8, "end": 39, "text": "parag.pansare@kirtanepandit.com", "type": "EMAIL_ADDRESS"}
+        ]
+    },
+    {
+        "paragraph_index": 890,
+        "text": "Email: hitesh.ramani@citi.com",
+        "entities": [
+            {"start": 7, "end": 28, "text": "hitesh.ramani@citi.com", "type": "EMAIL_ADDRESS"}
+        ]
+    },
+    {
+        "paragraph_index": 804,
+        "text": "Website: www.in.mpms.mufg.com Contact Person: Shanti Gopalkrishnan SEBI Registration No.: INR000004058",
+        "entities": [
+            {"start": 9, "end": 29, "text": "www.in.mpms.mufg.com", "type": "URL"},
+            {"start": 46, "end": 66, "text": "Shanti Gopalkrishnan", "type": "PERSON"}
+        ]
+    },
+    {
+        "paragraph_index": 741,
+        "text": "Sarthak Malvadkar is our Company Secretary and Compliance Officer. His contact details are as set forth below: Gat No. 11/3, 11/4, 11/5, Village Birdewadi",
+        "entities": [
+            {"start": 0, "end": 17, "text": "Sarthak Malvadkar", "type": "PERSON"},
+            {"start": 110, "end": 155, "text": "Gat No. 11/3, 11/4, 11/5, Village Birdewadi", "type": "LOCATION"}
+        ]
+    },
+    {
+        "paragraph_index": 617,
+        "text": "We are led by our Individual Promoters Kushal Subbayya Hegde, Pushpa Kushal Hegde, Rajesh Kushal Hegde, Rohit Kushal Hegde and Rakhi Girija Shetty.",
+        "entities": [
+            {"start": 39, "end": 60, "text": "Kushal Subbayya Hegde", "type": "PERSON"},
+            {"start": 62, "end": 82, "text": "Pushpa Kushal Hegde", "type": "PERSON"},
+            {"start": 84, "end": 103, "text": "Rajesh Kushal Hegde", "type": "PERSON"},
+            {"start": 105, "end": 123, "text": "Rohit Kushal Hegde", "type": "PERSON"},
+            {"start": 128, "end": 147, "text": "Rakhi Girija Shetty", "type": "PERSON"}
+        ]
+    },
+    {
+        "paragraph_index": 500,
+        "text": "This Red Herring Prospectus uses certain definitions and abbreviations which, unless the context otherwise indicates.",
+        "entities": []
+    },
+    {
+        "paragraph_index": 100,
+        "text": "All references in this Red Herring Prospectus to India are to the Republic of India and its territories.",
+        "entities": []
+    },
+    {
+        "paragraph_index": 200,
+        "text": "The face value of our Equity Shares is Rs. 10 each.",
+        "entities": []
+    },
+    {
+        "paragraph_index": 300,
+        "text": "Our Company has not made any dividend payments during the three financial years ended March 31, 2025.",
+        "entities": []
+    },
+    {
+        "paragraph_index": 400,
+        "text": "Revenue from operations and other income increased by 37.59% from the financial year ended March 31, 2023.",
+        "entities": []
+    },
+    {
+        "paragraph_index": 910,
+        "text": "Telephone: + 91 8879770456 Contact Person: Cherag Gyara Website: www.icicibank.com Email: cherag.gyara@icicibank.com",
+        "entities": [
+            {"start": 12, "end": 26, "text": "91 8879770456", "type": "PHONE_NUMBER"},
+            {"start": 43, "end": 55, "text": "Cherag Gyara", "type": "PERSON"},
+            {"start": 65, "end": 81, "text": "www.icicibank.com", "type": "URL"},
+            {"start": 89, "end": 116, "text": "cherag.gyara@icicibank.com", "type": "EMAIL_ADDRESS"}
+        ]
+    },
+    {
+        "paragraph_index": 917,
+        "text": "Email: manisha.shukla@hdfcbank.com",
+        "entities": [
+            {"start": 7, "end": 34, "text": "manisha.shukla@hdfcbank.com", "type": "EMAIL_ADDRESS"}
+        ]
+    },
+    {
+        "paragraph_index": 924,
+        "text": "Email: rm6.ifbpune@sbi.co.in",
+        "entities": [
+            {"start": 7, "end": 28, "text": "rm6.ifbpune@sbi.co.in", "type": "EMAIL_ADDRESS"}
+        ]
+    },
+    {
+        "paragraph_index": 932,
+        "text": "Email: ashishmp@federalbank.co.in",
+        "entities": [
+            {"start": 7, "end": 33, "text": "ashishmp@federalbank.co.in", "type": "EMAIL_ADDRESS"}
+        ]
+    },
+    {
+        "paragraph_index": 937,
+        "text": "Telephone: +91 20 7157 6403 Contact Person: Anand Soni Website: www.bajajfinance.com Email: anand.soni@bajajfinserv.in",
+        "entities": [
+            {"start": 11, "end": 27, "text": "+91 20 7157 6403", "type": "PHONE_NUMBER"},
+            {"start": 44, "end": 54, "text": "Anand Soni", "type": "PERSON"},
+            {"start": 64, "end": 84, "text": "www.bajajfinance.com", "type": "URL"},
+            {"start": 92, "end": 118, "text": "anand.soni@bajajfinserv.in", "type": "EMAIL_ADDRESS"}
+        ]
+    },
+    {
+        "paragraph_index": 744,
+        "text": "Telephone: + 91 20 45053237",
+        "entities": [
+            {"start": 12, "end": 27, "text": "+ 91 20 45053237", "type": "PHONE_NUMBER"}
+        ]
+    }
+]
